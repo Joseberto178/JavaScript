@@ -12,7 +12,7 @@ const items = document.querySelectorAll('li');
 // Objetos
 const carro = {
   cor: 'azul',
-  portas: 4,
+  portas: 5,
   ano: 2020,
 };
 
